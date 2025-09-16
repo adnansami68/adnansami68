@@ -9,7 +9,8 @@
 ### 🚀 About Me
 - 🎓 Computer Science and Engineering Student | Tech Enthusiast  
 - 💻 Exploring **C, C++, OOP, Data Structures & Algorithms**  
-- 🌱 Currently learning **Problem Solving & GitHub Workflow**  
+- 🌱 Currently learning **Problem Solving & GitHub Workflow**
+- 📫 Gmail: 20255103068@cse.bubt.edu.bd
   
 
 ---
