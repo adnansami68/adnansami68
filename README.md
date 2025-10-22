@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋 I'm Adnan Sami<br>A passionate learner and programmer at Bangladesh University of Business and Technology, Bangladesh<br>🚀 About Me<br><br>    🎓 Computer Science and Engineering Student | Tech Enthusiast<br>    💻 Exploring C, C++, OOP, Data Structures & Algorithms<br>    🌱 Currently learning Problem Solving & GitHub Workflow<br>    📫 Gmail: 20255103068@cse.bubt.edu.bd<br><br>🛠️ Skills & Tools<br><br>    Languages: C, C++<br>    Tools: Git, GitHub, VS Code, CLion, CodeBlocks<br>    Interests: Programming, Software Development, Technology<br><br> 
+# 💫 Hi 👋 I'm Adnan Sami
+<br>A passionate learner and programmer at Bangladesh University of Business and Technology, Bangladesh<br>🚀 About Me<br><br>    🎓 Computer Science and Engineering Student | Tech Enthusiast<br>    💻 Exploring C, C++, OOP, Data Structures & Algorithms<br>    🌱 Currently learning Problem Solving & GitHub Workflow<br>    📫 Gmail: 20255103068@cse.bubt.edu.bd<br><br>🛠️ Skills & Tools<br><br>    Languages: C, C++<br>    Tools: Git, GitHub, VS Code, CLion, CodeBlocks<br>    Interests: Programming, Software Development, Technology<br><br> 
 
 
 ## 🌐 Socials:
