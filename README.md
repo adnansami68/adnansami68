@@ -24,11 +24,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnansami68&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnansami68&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adnansami68&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnansami68&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="48%"/>
 </p>
 
----
 
 ### 🌐 Connect With Me
 <p>
