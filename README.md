@@ -51,4 +51,17 @@ A passionate learner and programmer at **Bangladesh University of Business and T
 
 ---
 
+Languages:
+
+    🇧🇩 Bangla : Native
+    🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Upper-Intermediate
+
+Sports / Game / Activities / Hobby:
+
+    🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
+    🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+    ✈️ Travelling
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
