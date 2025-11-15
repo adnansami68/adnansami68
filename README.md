@@ -45,9 +45,11 @@ A passionate learner and programmer at **Bangladesh University of Business and T
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=adnansami68&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=adnansami68&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adnansami68&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![Adnan Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnansami68&show_icons=true&count_private=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adnansami68&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnansami68&layout=compact&theme=dark&hide=Jupyter%20Notebook)
+
 
 ---
 
