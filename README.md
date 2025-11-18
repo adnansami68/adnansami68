@@ -1,15 +1,18 @@
-# 💫 Hi 👋 I'm **Adnan Sami**
+# 💫 Hi 👋 I'm 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=1ABC9C&center=false&vCenter=true&width=500&lines=Adnan+Sami;CSE+Undergraduate;Aspiring+Software+Engineer)](https://git.io/typing-svg)
+
+
+
 A passionate learner and aspiring software engineer from the **Bangladesh University of Business and Technology (BUBT)**.
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 🎓 **CSE Undergraduate | Problem Solver | Tech Explorer**  
 💻 Passionate about **C, C++, OOP, and Data Structures & Algorithms**  
 🌱 Constantly improving my skills in **OOP, Clean Code, and GitHub Workflow**  
 📬 Reach me via **[Email](mailto:20255103068@cse.bubt.edu.bd)**  
-🌐 Check out my **[Portfolio](https://adnansami68.github.io/Adnan-s-Portfolio/)** — a showcase of projects, code, and experiments
-
+🌐 Check out my **[Portfolio](https://adnansami68.github.io/Adnan-s-Portfolio/)**
 
 I enjoy building logical solutions, writing clean and efficient code, and continuously improving as a developer.
 
@@ -17,18 +20,18 @@ I enjoy building logical solutions, writing clean and efficient code, and contin
 
 ## 🛠️ Skills & Tools
 
-**Languages**
+### **Languages**
 - C  
 - C++  
 - Object-Oriented Programming (OOP)
 
-**Tools & Environment**
+### **Tools & Environment**
 - Git & GitHub  
 - VS Code  
 - CLion  
 - CodeBlocks
 
-**Interests**
+### **Interests**
 - Software Development  
 - Problem Solving  
 - Technology Research  
@@ -52,7 +55,7 @@ I enjoy building logical solutions, writing clean and efficient code, and contin
 
 ---
 
-### 🔝 Most Used Languages
+## 🔝 Most Used Languages
 
 ![Top Languages Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=adnansami68&hide=Jupyter%20Notebook&langs_count=6&layout=compact&theme=merko&hide_border=true)
 
@@ -70,11 +73,11 @@ I enjoy building logical solutions, writing clean and efficient code, and contin
 - Bangla — Native  
 - English — Upper-Intermediate
 
-
 ---
 
 ## 🎯 Sports & Hobbies
 - 🏏 Cricket ⚽ Football 🏸 Badminton ♟️ Chess  
 - 🏊‍♂️ Swimming 🏃‍♂️ Running ✈️ Travelling
-
+-
+![Profile Views](https://komarev.com/ghpvc/?username=adnansami68&label=Profile%20Views&color=1abc9c&style=for-the-badge)
 ---
