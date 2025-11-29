@@ -12,7 +12,7 @@ A passionate learner and aspiring software engineer from the **Bangladesh Univer
 💻 Passionate about **C, C++, OOP, and Data Structures & Algorithms**  
 🌱 Constantly improving my skills in **OOP, Clean Code, and GitHub Workflow**  
 📬 Reach me via **[Email](mailto:20255103068@cse.bubt.edu.bd)**  
-🌐 Check out my **[Portfolio](https://adnansami68.github.io/Adnan-s-Portfolio/)**
+🌐 Check out my **[Portfolio](https://adnansami-portfolio.vercel.app/)**
 
 I enjoy building logical solutions, writing clean and efficient code, and continuously improving as a developer.
 
