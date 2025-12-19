@@ -34,18 +34,15 @@ I am a **CSE Undergraduate** at the **Bangladesh University of Business and Tech
 - Web Development (Beginner)
 
 ---
----
 
-## 📈 GitHub Analytics
-
-### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=adnansami68&theme=dark&hide_border=true)
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=adnansami68&show_icons=true&theme=merko&hide_border=true)
-
-### 🔝 Top Languages
-![Top Languages](https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=adnansami68&layout=compact&theme=merko&hide_border=true)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=adnansami68&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" width="100%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adnansami68&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnansami68&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF" width="49%" />
+</div>
 
 ---
 
