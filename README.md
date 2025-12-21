@@ -35,13 +35,12 @@ I am a **CSE Undergraduate** at the **Bangladesh University of Business and Tech
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=adnansami68&theme=dark&hide_border=true)
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=adnansami68&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=adnansami68&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" width="100%" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=adnansami68&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnansami68&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF" width="49%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adnansami68&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnansami68&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF" width="48%" alt="Top Languages" />
 </div>
 
 ---
@@ -70,7 +69,8 @@ I am a **CSE Undergraduate** at the **Bangladesh University of Business and Tech
 ### **Thank you for accessing my terminal.**
 ![Matrix GIF](https://i.imgur.com/1ZvVkDc.gif)
 
-</div>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adnansami68&label=Profile%20Views&color=1abc9c&style=for-the-badge)
 
+</div>
