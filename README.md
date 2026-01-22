@@ -1,43 +1,26 @@
-<div align="center">
+# Hi👋, I'm Md. Adnan Sami
 
-# Hello World! I'm Md. Adnan Sami 👨‍💻
+<img src="https://komarev.com/ghpvc/?username=adnansami68&label=Profile%20Views&color=0e75b6&style=flat" alt="visitors" />
 
-**Computer Science & Engineering Undergraduate @ BUBT** *Aspiring Software Engineer | Problem Solver | Researcher*
-
+- 🎓 I’m an undergraduate student at **BUBT** (Department of Computer Science & Engineering) | **Intake-55** | **Section-02**
+- ✨ Focus on **Software Development & Research**
+- ✅ I'm completed **C** & **OOP**
+- 🔭 I’m currently working on **Data Structures With c++**
+- 🌱 I’m currently learning **Data Structures(DS)**
+- 👯 I’m looking to collaborate on **Open Source C++ Projects**
+- ⚡ Fun fact: I love **Coding** and playing **Football**
+### 📫 Reach me
+<a href="https://adnansami.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+</a>
 <a href="https://www.linkedin.com/in/adnansami68/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:a.m.adnansami143@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-</div>
+### ⚡ Github Statistics
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnansami68&layout=compact&theme=tokyonight" align="left" alt="Top Languages" />
 
-<br />
-
-```c++
-#include <iostream>
-#include <string>
-
-class AdnanSami {
-public:
-    // Academic Background
-    std::string university = "Bangladesh University of Business and Technology (BUBT)";
-    std::string focus = "Software Engineering & Technology Research";
-
-    // Tech Stack (Core Languages)
-    std::string languages[3] = { "C", "C++", "Java" };
-
-    // Key Concepts & Tools
-    std::string skills[] = { 
-        "Object-Oriented Programming (OOP)", 
-        "Data Structures & Algorithms", 
-        "Git & GitHub Workflow",
-        "VS Code & CLion"
-    };
-
-    void currentStatus() {
-        std::cout << "🚀 Improving Logic Building & Problem Solving..." << std::endl;
-        std::cout << "🌱 Learning Advanced Design Patterns..." << std::endl;
-    }
-};
+<br clear="left"/>
