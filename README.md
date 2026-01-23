@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=adnansami68&label=Profile%20Views&color=0e75b6&style=flat" alt="visitors" />
 
-- 🎓 I’m an undergraduate student at **BUBT** (Department of Computer Science & Engineering) | **Intake-55** | **Section-02**
+- 🎓 I’m an undergraduate student at **BUBT** (Department of **Computer Science & Engineering**) | **Intake-55** | **Section-02**
 - ✨ Focus on **Software Development & Research**
 - ✅ I'm completed **C** & **OOP**
 - 🔭 I’m currently working on **Data Structures With c++**
