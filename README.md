@@ -4,10 +4,10 @@
 
 - 🎓 I’m an undergraduate student at **BUBT** (Department of **Computer Science & Engineering**) | **Intake-55** | **Section-02**
 - ✨ Focus on **Software Development & Research**
-- ✅ I'm completed **C** & **OOP**
-- 🔭 I’m currently working on **Data Structures With c++**
-- 🌱 I’m currently learning **Data Structures(DS)**
-- 👯 I’m looking to collaborate on **Open Source C++ Projects**
+- ✅ I'm completed **C** , **OOP** & **Data Structures**
+- 🔭 I’m currently working on **Data Structures & Algorithms With c++**
+- 🌱 I’m currently learning **Algorithms**
+- 👯 I’m looking to collaborate on **C++ Projects**
 - ⚡ Fun fact: I love **Coding** and playing **Football**
 ### 📫 Reach me
 <a href="https://adnansami.vercel.app/">
